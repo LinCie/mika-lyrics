@@ -8,6 +8,6 @@ export const apps = [
 		},
 		watch: false,
 		autorestart: true,
-		max_memory_restart: "64M",
+		max_memory_restart: "128M",
 	},
 ];
