@@ -7,10 +7,12 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0",
-    "elysia": "latest"
+    "elysia": "latest",
+    "got": "^14.4.5"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
+    "@types/bun": "^1.2.1",
     "bun-types": "latest"
   },
   "module": "src/index.js",
