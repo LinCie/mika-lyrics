@@ -1,6 +1,6 @@
 export const apps = [
 	{
-		name: "mika",
+		name: "mika-lyrics",
 		script: ".dist/index.js",
 		interpreter: "bun",
 		env: {
